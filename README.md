@@ -1,2 +1,3 @@
 # UVIS25
-Arduino UVIS25 Library
+Basic Arduino UVIS25 Library based on Aistin arduino library.
+https://github.com/iProtoXi/Aistin-arduino-examples
