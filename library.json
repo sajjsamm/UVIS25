@@ -1,0 +1,20 @@
+{
+"name": "UVIS25",
+"frameworks": "Arduino",
+"keywords": "UVIS25",
+"description": "Library for UVIS25 sensor based on Aistin libraries.",
+"authors":
+[
+    {
+        "name": "Sajjad Golchin Poor",
+		"email": "sajjsamm@yahoo.com",
+		"url": ""
+        "maintainer": true
+    }
+],
+"repository":
+{
+    "type": "",
+    "url": ""
+}
+}
